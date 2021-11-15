@@ -18,6 +18,7 @@
     "rn wheel of luck"
   ],
   "dependencies": {
+    "d3-path": "^3.0.1",
     "d3-shape": "^3.0.1",
     "react-native-svg": "^12.1.1"
   },
